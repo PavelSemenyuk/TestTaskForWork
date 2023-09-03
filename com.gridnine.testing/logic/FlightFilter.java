@@ -1,3 +1,8 @@
+package logic;
+
+import model.Flight;
+import model.Segment;
+
 import java.time.Duration;
 import java.time.LocalDateTime;
 import java.util.List;
