@@ -1,3 +1,7 @@
+import logic.FlightBuilder;
+import logic.FlightFilter;
+import model.Flight;
+
 import java.util.List;
 
 public class Main {
